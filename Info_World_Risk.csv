@@ -1,0 +1,14 @@
+Feature Name,Data Type,Feature Description
+Region,String,Name of the region.
+WRI,Decimal,World Risk Score of the region.
+Exposure,Decimal,"Risk/exposure to natural hazards such as earthquakes, hurricanes, floods, droughts, and sea ??level rise."
+Vulnerability,Decimal,"Vulnerability depending on infrastructure, nutrition, housing situation, and economic framework conditions."
+Susceptibility,Decimal,"Susceptibility depending on infrastructure, nutrition, housing situation, and economic framework conditions."
+Lack of Coping Capabilities,Decimal,"Coping capacities in dependence of governance, preparedness and early warning, medical care, and social and material security."
+Lack of Adaptive Capacities,Decimal,"Adaptive capacities related to coming natural events, climate change, and other challenges."
+Year,Decimal,Year data is being described.
+WRI Category,String,WRI Category for the given WRI Score.
+Exposure Category,String,Exposure Category for the given Exposure Score.
+Vulnerability Categoy,String,Vulnerability Category for the given Vulnerability Score.
+Susceptibility Category,String,Susceptibility Category for the given Susceptibility Score.
+,,
